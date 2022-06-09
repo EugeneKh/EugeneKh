@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenekh&count_private=true&layout=compact&theme=synthwave)
-![](https://komarev.com/ghpvc/?username=EugeneKh)
-[![codewars](https://www.codewars.com/users/EugeneKh/badges/small)](https://www.codewars.com/users/EugeneKh) 
+<p>![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenekh&count_private=true&layout=compact&theme=synthwave)</p>
+<p>![](https://komarev.com/ghpvc/?username=EugeneKh)
+[![codewars](https://www.codewars.com/users/EugeneKh/badges/small)](https://www.codewars.com/users/EugeneKh) </p>
