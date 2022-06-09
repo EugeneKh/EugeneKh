@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenekh&count_private=true&layout=compact&theme=synthwave)
+![](https://komarev.com/ghpvc/?username=EugeneKh)
+[![codewars](https://www.codewars.com/users/EugeneKh/badges/small)](https://www.codewars.com/users/EugeneKh) 
