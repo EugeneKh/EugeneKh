@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Status for @EugeneKh](https://badge.stateful.com/EugeneKh/status.svg)](https://app.stateful.com/@EugeneKh)
 
-<p>![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenekh&count_private=true&layout=compact&theme=synthwave)</p>
-<p>![](https://komarev.com/ghpvc/?username=EugeneKh)
-[![codewars](https://www.codewars.com/users/EugeneKh/badges/small)](https://www.codewars.com/users/EugeneKh) </p>
+- 🌱 I’m currently learning ...
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenekh&count_private=true&layout=compact&theme=github_dark)
+
+[![codewars](https://www.codewars.com/users/EugeneKh/badges/small)](https://www.codewars.com/users/EugeneKh)
+
+<!-- ![](https://komarev.com/ghpvc/?username=EugeneKh) -->
